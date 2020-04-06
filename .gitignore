@@ -4,3 +4,7 @@
 !/LabWork(1)TheorySystem/*cs
 /LabWork(2)TheorySystem/*
 !/LabWork(2)TheorySystem/*.cs
+/LabWork(3)TheorySystem/*sln
+/LabWork(3)TheorySystem/*.vs
+/LabWork(3)TheorySystem/LabWork(3)TheorySystem/*
+!/LabWork(3)TheorySystem/LabWork(3)TheorySystem/*.cs
